@@ -1,0 +1,11 @@
+{
+    "name": "marx/test",
+    "description": "the new thinkphp framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "liu21st",
+            "email": "liu21st@gmail.com"
+        }
+    ]
+}
